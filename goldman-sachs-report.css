@@ -59,11 +59,11 @@ p{ margin-bottom: 1rem }
 
 .gs-header{ color: white !important; -webkit-print-color-adjust: exact; }
 
-.gs-text-header{ background: #c4c629 !important; -webkit-print-color-adjust: exact; }
+.gs-text-header{ background: #786e64 !important; -webkit-print-color-adjust: exact; }
 
-.gs-table-header{ background: #7F91AC !important; -webkit-print-color-adjust: exact; }
+.gs-table-header{ background: #ffd400 !important; -webkit-print-color-adjust: exact; }
 
-.gs-accent-header{ background: #65201F !important; -webkit-print-color-adjust: exact; }
+.gs-accent-header{ background: #ffd400 !important; -webkit-print-color-adjust: exact; }
 
 div.padded{ padding: 10px; }
 
