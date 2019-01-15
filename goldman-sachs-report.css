@@ -23,9 +23,9 @@ body {
 	  /* box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); */
  }
  .subpage {
-	  padding: 2cm;
+	  padding: 0.9cm;
 	  border: 5px #ccc solid;
-	  height: 28mm;
+	  height: 208mm;
 	  outline: 2cm whitesmoke solid;
  }
 
